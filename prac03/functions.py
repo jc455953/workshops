@@ -13,6 +13,8 @@ def is_prime(value):
     return True
 
 is_prime(is_prime(5))
-def_inch_to meter(inch):
-return inch * 0.0254
-print(inch_to_meter(s))
+
+def inch_to_meter(inch):
+    return inch * 0.0254
+
+print(inch_to_meter(10))
